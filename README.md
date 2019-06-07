@@ -16,4 +16,4 @@ Luckily, there are really simple tools out there to help us connect to Spotify, 
 We will be using Python 3 as the programming language, Spotipy, the Python library that allows you to connect to the Spotify Web API and we will use plot.ly and Seaborn for data visualisation.
 
 <h1>Dataset</h1>
-At the end of each year, Spotify compiles a playlist of the songs streamed most often over the course of that year and this playlist has 100 tracks. The dataset I used was already available on Kaggle: Top Spotify Tracks of 2018 .
+At the end of each year, Spotify compiles a playlist of the songs streamed most often over the course of that year and this playlist has 100 tracks. The dataset I used was already available on Kaggle: https://www.kaggle.com/nadintamer/top-spotify-tracks-of-2018
