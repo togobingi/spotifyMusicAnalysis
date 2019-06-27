@@ -1,7 +1,10 @@
 # Spotify Music Analysis
 Script to analyze and compare your Spotify music playlist with the top 100 songs of 2018
 
-I used the Spotipy library for this analysis
+I used the <a href="https://spotipy.readthedocs.io/en/latest/">Spotipy API</a>  for this analysis.
+
+Find a summary of my analysis in this <a href="https://towardsdatascience.com/do-hit-songs-have-anything-in-common-37599940590 
+">blogpost</a>: 
 
 <h1>Objective</h1>
 This led me to try to answer two questions using data from Spotify:
